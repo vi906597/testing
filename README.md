@@ -1,2 +1,2 @@
 # testing
-demo and testing perpose git and github accounts
+demo and testing perpose git and github accounts.
